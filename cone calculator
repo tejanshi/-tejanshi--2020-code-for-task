@@ -1,0 +1,25 @@
+import time
+
+print("This app will calculate the surface are, lateral surface area, perimeter and volume of any cuboid")
+
+H=float(input("height-"))
+
+L=float(input("length-"))
+
+W=float(input("width/breadth-"))
+
+time.sleep(1)
+
+print("Volume-"+str(L*W*H))
+
+time.sleep(1)
+
+print("Total Surface Area-"+str(2*(L*H+W*H+L*W)))
+
+time.sleep(1)
+
+print("Lateral Surface Area-"+str(2*H*(L+W)))
+
+time.sleep(1)
+
+print("Perimeter-"+str(4(L+W+H)))
