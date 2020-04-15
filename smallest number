@@ -1,0 +1,26 @@
+# Python program to find smallest  
+# number in a list 
+  
+# list of numbers
+num1 = int(input("please enter 1 number = "))  
+
+num2 = int(input("please enter 2 number = ")) 
+
+num3 = int(input("please enter 3 number = "))
+  
+num4 = int(input("please enter 4 number = "))
+  
+num5 = int(input("please enter 5 number = ")) 
+
+num6 = int(input("please enter 6 number = "))  
+
+num7 = int(input("please enter 7 number = "))  
+
+num8 = int(input("please enter 8 number = ")) 
+
+ 
+list1 = []
+
+  
+# printing the maximum element 
+print("Smallest element is:", str(list1)) 
