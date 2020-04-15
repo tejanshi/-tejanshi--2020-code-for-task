@@ -1,0 +1,30 @@
+f1=input("please enter 8 names one by one-")
+
+f2=input("-")
+
+f3=input("-")
+
+f4=input("-")
+
+f5=input("-")
+
+f6=input("-")
+
+f7=input("-")
+
+f8=input("-")
+
+f9=input("-")
+
+f10=input("-")
+
+li=[f1, f2, f3, f4, f5, f6, f7, f8, f9, f10]
+
+import time
+
+time.sleep(1)
+
+print(" ")
+
+for l in li[::2]:
+    print (l)
