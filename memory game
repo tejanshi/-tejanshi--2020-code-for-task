@@ -1,0 +1,452 @@
+# -*- coding: utf-8 -*-
+"""
+Created on sat Apr 18 13:01:03 2020
+
+@author: shilp
+"""
+
+import time
+
+print("LEVEL 1")
+    
+numList=[12,300,67,45,78]
+userList=[0,0,0,0,0]
+
+score=0
+
+print("Memorize the sequence!!")
+time.sleep(1)
+
+for i in numList:
+    print(i)
+    time.sleep(1)
+    
+time.sleep(3)
+
+for x in range(20):
+    print("||"*x)
+    
+for y in range(5):
+    
+    userList[y]=int(input("Number " + str(y+1)+" : "))
+    if userList[y]==numList[y]:
+        score=score+1
+    
+        
+if score<=2:
+    print("You need Almonds Man!!")
+    
+    
+elif score<=4:
+    print("You need to improve")
+else:
+    print("You have sharp Memory!!")
+   
+print("Your Score is: " + str(score))
+
+print("Do You want to:")
+
+print("1: continue")
+print("2: stop")
+
+choice=int(input("Enter choice: "))
+
+
+print("LEVEL 2")
+    
+numList=[13,301,68,46,79]
+userList=[0,0,0,0,0]
+
+score=0
+
+print("Memorize the sequence!!")
+time.sleep(1)
+
+for i in numList:
+    print(i)
+    time.sleep(1)
+    
+time.sleep(3)
+
+for x in range(20):
+    print("||"*x)
+    
+for y in range(5):
+    
+    userList[y]=int(input("Number " + str(y+1)+" : "))
+    if userList[y]==numList[y]:
+        score=score+1
+    
+        
+if score<=2:
+    print("You need Almonds Man!!")
+    
+    
+elif score<=4:
+    print("You need to improve")
+else:
+    print("You have sharp Memory!!")
+   
+print("Your Score is: " + str(score))
+
+print("Do You want to:")
+
+print("1: continue")
+print("2: stop")
+
+choice=int(input("Enter choice: "))
+
+
+print("LEVEL 3")
+    
+numList=[14,302,69,47,80]
+userList=[0,0,0,0,0]
+
+score=0
+
+print("Memorize the sequence!!")
+time.sleep(1)
+
+for i in numList:
+    print(i)
+    time.sleep(1)
+    
+time.sleep(3)
+
+for x in range(20):
+    print("||"*x)
+    
+for y in range(5):
+    
+    userList[y]=int(input("Number " + str(y+1)+" : "))
+    if userList[y]==numList[y]:
+        score=score+1
+    
+        
+if score<=2:
+    print("You need Almonds Man!!")
+    
+    
+elif score<=4:
+    print("You need to improve")
+else:
+    print("You have sharp Memory!!")
+   
+print("Your Score is: " + str(score))
+
+print("Do You want to:")
+
+print("1: continue")
+print("2: stop")
+
+choice=int(input("Enter choice: "))
+
+
+print("LEVEL 4")
+    
+numList=[15,303,70,48,81]
+userList=[0,0,0,0,0]
+
+score=0
+
+print("Memorize the sequence!!")
+time.sleep(1)
+
+for i in numList:
+    print(i)
+    time.sleep(1)
+    
+time.sleep(3)
+
+for x in range(20):
+    print("||"*x)
+    
+for y in range(5):
+    
+    userList[y]=int(input("Number " + str(y+1)+" : "))
+    if userList[y]==numList[y]:
+        score=score+1
+    
+        
+if score<=2:
+    print("You need Almonds Man!!")
+    
+    
+elif score<=4:
+    print("You need to improve")
+else:
+    print("You have sharp Memory!!")
+   
+print("Your Score is: " + str(score))
+
+print("Do You want to:")
+
+print("1: continue")
+print("2: stop")
+
+choice=int(input("Enter choice: "))
+
+
+print("LEVEL 5")
+    
+numList=[16,304,71,49,82]
+userList=[0,0,0,0,0]
+
+score=0
+
+print("Memorize the sequence!!")
+time.sleep(1)
+
+for i in numList:
+    print(i)
+    time.sleep(1)
+    
+time.sleep(3)
+
+for x in range(20):
+    print("||"*x)
+    
+for y in range(5):
+    
+    userList[y]=int(input("Number " + str(y+1)+" : "))
+    if userList[y]==numList[y]:
+        score=score+1
+    
+        
+if score<=2:
+    print("You need Almonds Man!!")
+    
+    
+elif score<=4:
+    print("You need to improve")
+else:
+    print("You have sharp Memory!!")
+   
+print("Your Score is: " + str(score))
+
+print("Do You want to:")
+
+print("1: continue")
+print("2: stop")
+
+choice=int(input("Enter choice: "))
+
+
+print("LEVEL 6")
+    
+numList=[17,305,72,50,83]
+userList=[0,0,0,0,0]
+
+score=0
+
+print("Memorize the sequence!!")
+time.sleep(1)
+
+for i in numList:
+    print(i)
+    time.sleep(1)
+    
+time.sleep(3)
+
+for x in range(20):
+    print("||"*x)
+    
+for y in range(5):
+    
+    userList[y]=int(input("Number " + str(y+1)+" : "))
+    if userList[y]==numList[y]:
+        score=score+1
+    
+        
+if score<=2:
+    print("You need Almonds Man!!")
+    
+    
+elif score<=4:
+    print("You need to improve")
+else:
+    print("You have sharp Memory!!")
+   
+print("Your Score is: " + str(score))
+
+print("Do You want to:")
+
+print("1: continue")
+print("2: stop")
+
+choice=int(input("Enter choice: "))
+
+
+print("LEVEL 7")
+    
+numList=[18,306,73,51,84]
+userList=[0,0,0,0,0]
+
+score=0
+
+print("Memorize the sequence!!")
+time.sleep(1)
+
+for i in numList:
+    print(i)
+    time.sleep(1)
+    
+time.sleep(3)
+
+for x in range(20):
+    print("||"*x)
+    
+for y in range(5):
+    
+    userList[y]=int(input("Number " + str(y+1)+" : "))
+    if userList[y]==numList[y]:
+        score=score+1
+    
+        
+if score<=2:
+    print("You need Almonds Man!!")
+    
+    
+elif score<=4:
+    print("You need to improve")
+else:
+    print("You have sharp Memory!!")
+   
+print("Your Score is: " + str(score))
+
+print("Do You want to:")
+
+print("1: continue")
+print("2: stop")
+
+choice=int(input("Enter choice: "))
+
+
+print("LEVEL 8")
+    
+numList=[19,307,74,52,85]
+userList=[0,0,0,0,0]
+
+score=0
+
+print("Memorize the sequence!!")
+time.sleep(1)
+
+for i in numList:
+    print(i)
+    time.sleep(1)
+    
+time.sleep(3)
+
+for x in range(20):
+    print("||"*x)
+    
+for y in range(5):
+    
+    userList[y]=int(input("Number " + str(y+1)+" : "))
+    if userList[y]==numList[y]:
+        score=score+1
+    
+        
+if score<=2:
+    print("You need Almonds Man!!")
+    
+    
+elif score<=4:
+    print("You need to improve")
+else:
+    print("You have sharp Memory!!")
+   
+print("Your Score is: " + str(score))
+
+print("Do You want to:")
+
+print("1: continue")
+print("2: stop")
+
+choice=int(input("Enter choice: "))
+
+
+print("LEVEL 9")
+    
+numList=[20,308,75,53,86]
+userList=[0,0,0,0,0]
+
+score=0
+
+print("Memorize the sequence!!")
+time.sleep(1)
+
+for i in numList:
+    print(i)
+    time.sleep(1)
+    
+time.sleep(3)
+
+for x in range(20):
+    print("||"*x)
+    
+for y in range(5):
+    
+    userList[y]=int(input("Number " + str(y+1)+" : "))
+    if userList[y]==numList[y]:
+        score=score+1
+    
+        
+if score<=2:
+    print("You need Almonds Man!!")
+    
+    
+elif score<=4:
+    print("You need to improve")
+else:
+    print("You have sharp Memory!!")
+   
+print("Your Score is: " + str(score))
+
+
+print("Do You want to:")
+
+print("1: continue")
+print("2: stop")
+
+choice=int(input("Enter choice: "))
+
+print([choice-1])
+
+print("LEVEL 10")
+
+numList=[21,309,76,54,87]
+userList=[0,0,0,0,0]
+
+score=0
+
+print("Memorize the sequence!!")
+time.sleep(1)
+
+for i in numList:
+    print(i)
+    time.sleep(1)
+    
+time.sleep(3)
+
+for x in range(20):
+    print("||"*x)
+    
+for y in range(5):
+    
+    userList[y]=int(input("Number " + str(y+1)+" : "))
+    if userList[y]==numList[y]:
+        score=score+1
+    
+        
+if score<=2:
+    print("You need Almonds Man!!")
+    
+    
+elif score<=4:
+    print("You need to improve")
+else:
+    print("You have sharp Memory!!")
+   
+print("Your Score is: " + str(score))
